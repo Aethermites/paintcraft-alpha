@@ -1,0 +1,20 @@
+{
+  "schema": "marketcraft-software-manifest-v1",
+  "genesis_attribution": "AetherMites // Hubert Silaa - MarketCraft v0.5.2 Genesis Block",
+  "slug": "paintcraft-alpha",
+  "name": "PaintCraft Alpha",
+  "version": "1.0.0",
+  "repo_url": "https://github.com/Aethermites/paintcraft-alpha",
+  "category_id": 400,
+  "subcategory_id": 401,
+  "artifact_type": 1,
+  "edition_tier": 1,
+  "tool_royalty_bps": 150,
+  "extensibility_mode": "OPEN_ADDONS_AND_FUNCTIONS",
+  "split_visibility": "CONTRIBUTORS_ONLY",
+  "license_id": "MIT",
+  "host_app_version": "Web HTML5 Canvas (Modern Browsers)",
+  "tags": ["painting", "canvas", "illustration", "mcraft", "alpha"],
+  "hif_profile": "ART_2D_CANVAS",
+  "entry_point": "index.html"
+}

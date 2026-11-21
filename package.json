@@ -1,0 +1,14 @@
+{
+  "name": "aethermites-paintcraft-alpha",
+  "version": "1.0.0",
+  "private": false,
+  "description": "AetherMites // Hubert Silaa - MarketCraft v0.5.2 Genesis Block — PaintCraft Alpha (Wave 1 Reference Canvas App for GitHub Repo-Admin Verification)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aethermites/paintcraft-alpha.git"
+  },
+  "scripts": {
+    "dev": "npx serve . -l 4175"
+  }
+}
